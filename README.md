@@ -26,9 +26,11 @@ Linux Windows PowerShell Git/GitHub Cisco Networking
 🔍 USB Connection Forensic Investigator
 Python-based forensic tool that analyzes USB device connection history for insider threat detection and incident response. Implements IOC-based detection logic, device fingerprinting, and generates structured forensic reports.
 Python Digital Forensics Incident Response Pandas
+
 🔐 Applied Cryptography Algorithms
 Hands-on implementations of cryptographic algorithms from my Applied Cryptography coursework — including symmetric/asymmetric encryption, hashing, and key exchange protocols.
 Python Cryptography Security Engineering
+
 🧩 Sudoku Solver
 Algorithm-based puzzle solver demonstrating problem decomposition and constraint satisfaction techniques.
 Python Algorithms
@@ -36,6 +38,7 @@ Python Algorithms
 🧪 Hack The Box Labs
 Documented penetration testing labs on intentionally vulnerable machines using Kali Linux
 All writeups documented with methodology, tools used, and findings.
+
 
 📂 Cyber Portfolio Structure
 CYBERPORTFOLIO/
