@@ -7,7 +7,7 @@ I'm passionate about offensive security, digital forensics, and building tools t
 
 🎓 Studying Cybersecurity at NWMSU — coursework includes Ethical Hacking, Digital Forensics, Applied Cryptography & Secure Programming
 🛡️ Certified: Google Cybersecurity Professional | TestOut Ethical Hacker Pro
-💻 Practicing offensive security on Hack The Box (Meow, Redeemer, Fawn, Dancing)
+💻 Practicing offensive security on Hack The Box, TryHackMe
 🔬 Building security tools in Python — forensics, cryptography, and threat detection
 
 
