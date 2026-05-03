@@ -40,9 +40,4 @@ Documented penetration testing labs on intentionally vulnerable machines using K
 All writeups documented with methodology, tools used, and findings.
 
 
-📂 Cyber Portfolio Structure
-CYBERPORTFOLIO/
-├── 01_Networking/       # Nmap, OSI/TCP-IP, Reconnaissance labs
-├── 02_Linux/            # Linux fundamentals, permissions, services
-├── 03_Python/           # Security scripting and logging tools
-└── 04_Pentesting/       # HTB lab writeups
+
